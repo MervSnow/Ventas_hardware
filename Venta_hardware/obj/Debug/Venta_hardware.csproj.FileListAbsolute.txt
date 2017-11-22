@@ -1,0 +1,10 @@
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\bin\Debug\Venta_hardware.exe.config
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\bin\Debug\Venta_hardware.exe
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\bin\Debug\Venta_hardware.pdb
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.csprojResolveAssemblyReference.cache
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.frmInicio.resources
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.Properties.Resources.resources
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.csproj.GenerateResource.Cache
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.exe
+C:\Users\Usr\Desktop\Venta_hardware\Venta_hardware\obj\Debug\Venta_hardware.pdb
